@@ -6,3 +6,4 @@ node_modules/
 # os crap
 Thumbs.db
 ~*
+switch_file.txt
